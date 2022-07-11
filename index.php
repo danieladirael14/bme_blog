@@ -1,3 +1,3 @@
 <?php
-include ('blogs/fortalecimiento.php');
+echo "hola"
 ?>
